@@ -9,4 +9,4 @@ github_username:  LostAngles-
 
 # Build settings
 markdown: kramdown
-permalink: pretty
+permalink: /:categories/:title
