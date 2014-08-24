@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Sites for Inspiration"
-date:   2014-08-14 23:00:02
+date:   2014-08-19 23:00:02
 categories: random
 ---
 
