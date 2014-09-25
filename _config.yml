@@ -2,8 +2,7 @@
 title: LostAngl.es
 # email: your-email@domain.com
 description: "My adventures into Micro Controllers - Raspberry Pi, Arduino and other Random (slightly related) things..."
-baseurl: "/"
-url: "http://lostangl.es"
+baseurl: "http://lostangl.es"
 twitter_username: LostAngles
 github_username:  LostAngles-
 
