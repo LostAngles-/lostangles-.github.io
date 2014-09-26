@@ -15,7 +15,7 @@ I bought the [Pibow case][Pibow] (Toxic Yellow) from [Pimoroni](http://shop.pimo
 
 ## Case Components
 
-This is how the [PiBow][PiBow] looks in its individual components after you have taken off the protection film. Not included in shot is the plastic threads, nuts and nut spinny thing
+This is how the [PiBow][PiBow] looks in its individual components after you have taken off the protection film. Not included in shot are the plastic threads, nuts and nut wrench
 
 <a href="{{ site.baseurl }}/img/IMG_0038.jpg">![PiBow 6]({{ site.baseurl }}/img/small/IMG_0038.jpg)</a>
 
@@ -35,7 +35,7 @@ The top has the nice [Raspberry Pi][rpi] Logo with integrated vent and a slot fo
 
 ## No Tools Required
 
-That's because they are included with the case:- here is the Nut turner thing, very useful for spinning around and tightening up the nuts
+That's because they are included with the case:- here is the Nut wrench, very useful for spinning around and tightening up the nuts
 
 <a href="{{ site.baseurl }}/img/IMG_0041.jpg">![PiBow 9]({{ site.baseurl }}/img/small/IMG_0041.jpg)</a>
 <a href="{{ site.baseurl }}/img/IMG_0042.jpg">![PiBow 10]({{ site.baseurl }}/img/small/IMG_0042.jpg)</a>
