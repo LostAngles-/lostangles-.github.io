@@ -8,7 +8,7 @@ categories: raspberrypi
 I bought the [Pibow case][Pibow] (Toxic Yellow) from [Pimoroni](http://shop.pimoroni.com/) ages ago, it is such a sturdy and bright case - I thought I would take some pictures and deconstruct it... !
 
 ## Case Fully Assembled
-<a href="{{ site.baseurl }}/img/IMG_0033.jpg">![PiBow 1]({{ site.baseurl }}//img/small/IMG_0033.jpg)</a>
+<a href="{{ site.baseurl }}/img/IMG_0033.jpg">![PiBow 1]({{ site.baseurl }}/img/small/IMG_0033.jpg)</a>
 <a href="{{ site.baseurl }}/img/IMG_0034.jpg">![PiBow 2]({{ site.baseurl }}/img/small/IMG_0034.jpg)</a>
 <a href="{{ site.baseurl }}/img/IMG_0035.jpg">![PiBow 3]({{ site.baseurl }}/img/small/IMG_0035.jpg)</a>
 

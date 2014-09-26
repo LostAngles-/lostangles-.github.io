@@ -9,7 +9,7 @@ The **Terminal** also known as **Command Line Interface** (**CLI**) can be a sca
 
 Below is the **LXTerminal** from the [Raspbian Distribution](http://www.raspbian.org/)
 
-![Terminal](/img/terminal.png) 
+![Terminal]({{ site.baseurl }}/img/terminal.png) 
 
 When you first start the **Terminal** you are presented with the following:
 
