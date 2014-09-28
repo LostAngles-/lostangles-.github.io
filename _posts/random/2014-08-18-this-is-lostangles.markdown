@@ -3,6 +3,7 @@ layout: post
 title:  "This is LostAngl.es"
 date:   2014-08-18 22:51:02
 categories: random
+meta: LostAngl.es is a site where I talk about my interests in Micro-Controllers, Arduino, Raspberry Pi and other random things that I have an interest in
 ---
 
 Hi, My name is Lee, LeeT in fact ! I have been using and supporting computers for over a decade (probably 2) and recently I have got interested into [Raspberry Pi][1] &amp; [Arduino][2]. The little small powered devices that you can do anything with.
