@@ -3,6 +3,7 @@ layout: post
 title: "PiBow Case from Pimoroni"
 date: 2014-09-25 10:00
 categories: raspberrypi
+meta: The Pibow case for Raspberry Pi from Pimoroni. Really good case, mine is Toxic Yellow. 
 ---
 
 I bought the [Pibow case][Pibow] (Toxic Yellow) from [Pimoroni](http://shop.pimoroni.com/) ages ago, it is such a sturdy and bright case - I thought I would take some pictures and deconstruct it... !
