@@ -4,6 +4,7 @@ title:  "Sites for Inspiration"
 date:   2014-08-19 23:00:02
 categories: random
 meta: Find out what sites inspire me. Follow my Instagram Blogging sites, that display interesting projects from the worlds of Raspberry Pi and Arduino
+author: LeeT
 ---
 
 I have been aggregating images from [Instagram][3] that relate to [Raspberry Pi][1] & [Arduino][2]. They are then posted to my Tumblr Blogs and then Tweeted to the world. Some of the projects are starter projects, but then there are some Robots, Sensors and Flying Machines...

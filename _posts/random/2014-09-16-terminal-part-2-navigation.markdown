@@ -4,6 +4,7 @@ title: "Terminal - Part 2 - Navigation"
 date: 2014-09-16 18:00:00
 categories: random
 meta: Terminal - Part 2 - Navigation. Learning how to navigate through directories/folders and how to move around
+author: LeeT
 ---
 
 The next part in our **Terminal** series is _Navigation_. Last time we viewed the data and learnt how to List the data in various different ways. Now we are going to learn how to Navigate between _Directories_

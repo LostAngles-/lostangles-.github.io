@@ -4,6 +4,7 @@ title: "Terminal - Part 1 - Directories & Content"
 date: 2014-09-11 18:00:00
 categories: random
 meta: Terminal - Part 1 - Directories and Content. Learn how to find where you currently are, directory wise. Learn how to list directors to find out what content you have inside them.
+author: LeeT
 ---
 
 The **Terminal** also known as **Command Line Interface** (**CLI**) can be a scary place if you dont know what you are doing. Once you get used to it, it starts to be logical and will become second nature.
