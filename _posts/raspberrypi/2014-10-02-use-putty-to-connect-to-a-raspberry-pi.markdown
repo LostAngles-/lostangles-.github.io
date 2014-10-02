@@ -29,7 +29,12 @@ Now enter your Username (_Pi_ by default) then your Password. When you type in y
 
 Congratulations, you are Remotely Connected onto your [Raspberry Pi](http://www.raspberrypi.org/). Using SSH you can use the Server _Headless_, which basically means using it without a monitor.
 
-I will be doing a follow up to this tutorial, in which I will describe on how to use SSH Keys instead of a password...
+To save your connection, simply enter a name into the **Saved Sessions** field and click **Save**. This will then drop your session into the box below it. Then next time simply highlight and click the **Load** button (or double click on the Saved Session name)
+
+
+### Next time 
+
+I will be doing a follow up to this tutorial, in which I will describe how to use a SSH Key instead of a password to connect to your [Raspberry Pi](http://www.raspberrypi.org/)...
 
 
 
