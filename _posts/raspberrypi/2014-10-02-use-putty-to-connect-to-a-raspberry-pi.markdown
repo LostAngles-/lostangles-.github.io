@@ -3,6 +3,8 @@ layout: post
 title: "Use Putty to connect to a Raspberry Pi"
 date: 2014-10-02 09:00
 categories: rasbperrypi
+meta: Use Putty on Windows to connect remotely to your Raspberry Pi. This is a good method to use if you want to use your Raspberry Pi as a headless server or media center. Use the Command Line/Terminal to add remote updates and new installations on your Raspberry Pi
+author: LeeT
 ---
 
 ## Putty
