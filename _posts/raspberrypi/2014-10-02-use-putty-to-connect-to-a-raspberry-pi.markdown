@@ -13,7 +13,7 @@ categories: rasbperrypi
 
 To Connect to you [Raspberry Pi](http://www.raspberrypi.org/) you would enter the **Host Name** (1) (either its name or its IP Address), the **Port** (2) (default for _SSH_ is 22), make sure the **Connection Type** (3) is _SSH_ and then once that is done click on the **Open** button (4)
 
-You will key a prompt to accept the Remote Server, click **Yes**
+You will get a prompt to accept the Remote Server, click **Yes**
 
 ### Putty Shell
 
