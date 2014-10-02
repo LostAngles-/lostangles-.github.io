@@ -17,7 +17,7 @@ To Connect to you [Raspberry Pi](http://www.raspberrypi.org/) you would enter th
 
 You will get a prompt to accept the Remote Server, click **Yes**
 
-### Putty Shell
+## Putty Shell
 
 Once you have done that, you will get the below Command Line Interface:
 
@@ -29,10 +29,12 @@ Now enter your Username (_Pi_ by default) then your Password. When you type in y
 
 Congratulations, you are Remotely Connected onto your [Raspberry Pi](http://www.raspberrypi.org/). Using SSH you can use the Server _Headless_, which basically means using it without a monitor.
 
+## Save your session
+
 To save your connection, simply enter a name into the **Saved Sessions** field and click **Save**. This will then drop your session into the box below it. Then next time simply highlight and click the **Load** button (or double click on the Saved Session name)
 
 
-### Next time 
+## Next time 
 
 I will be doing a follow up to this tutorial, in which I will describe how to use a SSH Key instead of a password to connect to your [Raspberry Pi](http://www.raspberrypi.org/)...
 
