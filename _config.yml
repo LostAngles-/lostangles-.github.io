@@ -1,9 +1,9 @@
 # Site settings
-title: LostAngl.es
+title: LostAngles.com
 # email: your-email@domain.com
 description: "My adventures into Micro Controllers - Raspberry Pi, Arduino and other Random (slightly related) things..."
 #baseurl: "http://lostangl.es"
-url: "http://lostangl.es"
+url: "http://lostangles.com"
 twitter_username: LostAngles
 github_username:  LostAngles-
 
